@@ -19,7 +19,7 @@ For this project, the following tools and methods were utilized:
 ## Project Files
 This project repository contains the following key files:
 
-- **homicide-data.csv**: This is the dataset we analyzed for our EDA.
+- **homicide-dataset and Dashboard.zip**: This is a zip file containing a csv file - the dataset we analyzed for our EDA and the Power BI file of the interactive dashboard.
 - **Power BI Dashboard**: You can access the interactive Power BI dashboard by following this [link](https://app.powerbi.com/links/nQHepu1iwr?ctid=392ba85e-a1c8-4f5c-85ec-251bc6d10f96&pbi_source=linkShare). Feel free to explore the visualizations and insights.
 - **homicide-dashoard.jpg**: This is how the dashboard looks like.
 - ![Homicide dashboard](C:\Users\USER\Downloads\IMG_1760.jpg)
