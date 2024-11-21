@@ -22,15 +22,16 @@ This project repository contains the following key files:
 
 - **homicide-dataset and Power BI Dashboard.zip**: This is a zip file containing a csv file - the dataset we analyzed for our EDA and the Power BI file of the interactive dashboard.
 - **Power BI Dashboard**: You can access the interactive Power BI dashboard by following this [link](https://app.powerbi.com/links/nQHepu1iwr?ctid=392ba85e-a1c8-4f5c-85ec-251bc6d10f96&pbi_source=linkShare). Feel free to explore the visualizations and insights.
-  ![USA Homicide](https://github.com/OsinachiEzemba/USA-Homicide-Cases/assets/127313959/3bed3425-ae97-4678-a8f2-1dfd9ba2acaf)
 - **homicide.zip**: This file is used in the Streamlit script for the web app.
 - **homicide.ipynb**: The Jupyter notebook where the EDA was conducted in detail.
-- **streamlit Dashboard**: The interactive Power BI dashboard, which is accessible through the following link to the deployed web app. Feel free to explore the visualizations and insights shared through the dashboard.
+- **streamlit Dashboard**: The interactive Power BI dashboard, which is accessible through the following [link to the deployed web app](https://osinachi-United-States-Homicide-Cases.hf.space/). Feel free to explore the visualizations and insights shared through the dashboard.
 - **homicide-dashoard.jpg**: This is how the dashboard looks like.
+  ![USA Homicide](https://github.com/OsinachiEzemba/USA-Homicide-Cases/assets/127313959/3bed3425-ae97-4678-a8f2-1dfd9ba2acaf)
 
 
 ## Results
 After completing the EDA, I developed a web application using Python and Streamlit to provide an interactive platform where users can explore the findings and gain further insights into the dataset. You can access the deployed web app through the provided [link to the deployed web app](https://osinachi-United-States-Homicide-Cases.hf.space/), where the results of the EDA and the visualizations are available for exploration.
+
 I have also documented the findings and insights from the EDA in a Medium publication. You can access this publication via this [link](https://ezembaosinachi.medium.com/delving-into-homicides-in-the-united-states-a-data-driven-exploration-bb68b277f599). In my Medium article, I share visualizations, interesting patterns, and valuable insights that I discovered during the analysis.
 
 ## Conclusion
