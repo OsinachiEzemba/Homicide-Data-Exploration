@@ -23,7 +23,7 @@ This project repository contains the following key files:
 - **Power BI Dashboard**: You can access the interactive Power BI dashboard by following this [link](https://app.powerbi.com/links/nQHepu1iwr?ctid=392ba85e-a1c8-4f5c-85ec-251bc6d10f96&pbi_source=linkShare). Feel free to explore the visualizations and insights.
 - **homicide.zip**: This file is used in the Streamlit script for the web app.
 - **homicide.ipynb**: The Jupyter notebook where the EDA was conducted in detail.
-- **streamlit Dashboard**: The interactive Power BI dashboard, which is accessible through the following [link to the deployed web app](https://osinachi-United-States-Homicide-Cases.hf.space/). Feel free to explore the visualizations and insights shared through the dashboard.
+- **streamlit_link.txt**: The link to the streamlit dashboard. Feel free to explore the visualizations and insights shared through the dashboard.
 - **homicide-dashoard.jpg**: This is how the dashboard looks like.
   ![USA Homicide](https://github.com/OsinachiEzemba/USA-Homicide-Cases/assets/127313959/3bed3425-ae97-4678-a8f2-1dfd9ba2acaf)
 
