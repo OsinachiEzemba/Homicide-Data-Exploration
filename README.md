@@ -38,6 +38,4 @@ The EDA process is integral to understanding the underlying trends and patterns 
 
 Please explore the project files and feel free to reach out for any questions or feedback.
 
-Happy Exploring!t.
-
 Happy Exploring!
