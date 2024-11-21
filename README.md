@@ -14,7 +14,6 @@ I chose a specific dataset that piqued my interest. The details of the dataset, 
 For this project, the following tools and methods were utilized:
 
 - **Tool of Choice**: Microsoft Power BI for data analysis and visualization, along with Python and Streamlit for developing the web application.
-- 
 - **Exploration Techniques**: A combination of data visualization, statistical analysis, and data cleaning was applied to uncover insights from the dataset.
 
 ## Project Files
